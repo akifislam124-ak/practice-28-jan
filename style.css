@@ -1,0 +1,15 @@
+.son{
+    border: 20px solid red;
+    border-radius: 20px;
+    border-top: 0px dashed blue;
+}
+.list{
+    color: chocolate;
+    text-align: justify;
+    font-size: 10px;
+    font-family: fantasy;
+    font-style: different;
+    background-color: rgb(211, 211, 211);
+    background-image:url('images/alone\ 3.jpeg');
+    background-repeat: no-repeat;
+}
